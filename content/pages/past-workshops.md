@@ -22,11 +22,144 @@ Some of the most telling testaments to the power of these workshops are the refl
 Past Workshops
 --------------
 
-| IMAGES | DESCRIPTIONS |
-| --- | --- |
-| ![Children in Gujerat, India.](/courses/architecture/4-170-ecuador-workshop-fall-2006/past-workshops/1.jpg) | {{< h 3 >}}Gujerat, India, 1996-1997{{< /h >}} {{< br >}}{{< br >}} The design of housing, a community center prototype, and public spaces in Gujerat, India. {{< br >}}{{< br >}} "Working with MIT and the Aga Khan Housing Board of India taught us an invaluable lesson of how to work with and for people of other cultures... Every phase of this workshop was vital to its success and each taught us a valuable lesson of exchange and cooperation that we carried with us into our professional careers." {{< br >}}{{< br >}} \-Rodney Zeismann and Sandra Ventura ([PDF]({{< baseurl >}}/resources/1zeismannventura)) {{< br >}}{{< br >}} _At left, children in Gujerat._ {{< br >}}{{< br >}}  |
-| ![Plan view of model.](/courses/architecture/4-170-ecuador-workshop-fall-2006/past-workshops/2.jpg) | {{< h 3 >}}Haiderabad, Pakistan, 1995{{< /h >}} {{< br >}}{{< br >}} Design of an educational and community center incorporated into a south-facing slope. {{< br >}}{{< br >}} "As I think back on the Haiderabad workshop, it is difficult to focus on just that experience, as the effects of it continue to sprout and grow in me even today. The experience of the workshop was so incredible that it also represents for me one of those treasured points of clarity that so affect the paths we take in life. In fact, I can say without hesitation that, six years later, the seeds that this workshop sowed in me have grown to be more and more a part of my life and work with every passing year." {{< br >}}{{< br >}} \- Barbara Brady ([PDF]({{< baseurl >}}/resources/2brady)) {{< br >}}{{< br >}} _At left, a plan view of the model._ {{< br >}}{{< br >}}  |
-| ![Three-person unit.](/courses/architecture/4-170-ecuador-workshop-fall-2006/past-workshops/3.jpg) | {{< h 3 >}}Beijing, China, 2001{{< /h >}} {{< br >}}{{< br >}} House and home prototypes in the hutong district of Beijing. {{< br >}}{{< br >}} "Overall, the China Workshop was one of the greatest educational experiences of my life... Perhaps the greatest lesson that I learned was that while our cultures and contexts are very different, people living in Beijing are basically the same as people living in Boston." {{< br >}}{{< br >}} \- Steven Jackson ([PDF]({{< baseurl >}}/resources/3jackson)) {{< br >}}{{< br >}} _At left, models of a three-person housing unit._ {{< br >}}{{< br >}}  |
-| ![Site plan for housing community.](/courses/architecture/4-170-ecuador-workshop-fall-2006/past-workshops/4.jpg) | {{< h 3 >}}Tegucigalpa, Honduras, 1999{{< /h >}} {{< br >}}{{< br >}} A new housing prototype in Honduras to provide hurricane relief and crowding solutions. {{< br >}}{{< br >}} "I experienced a country devastated in terms I can not describe, something I will take with me always. I saw how a project is approached through an architect and planner’s eyes – something some civil engineers never experience! Most importantly, I left the workshop with wonderful friends, both at MIT and in Honduras, that I never would have met in my life otherwise." {{< br >}}{{< br >}} \- Kathryn J. MacLaughlin ([PDF]({{< baseurl >}}/resources/4maclaughlin)) {{< br >}}{{< br >}} _At left, a site plan for a housing community._ {{< br >}}{{< br >}}  |
-| ![Model with lines showing services.](/courses/architecture/4-170-ecuador-workshop-fall-2006/past-workshops/5.jpg) | {{< h 3 >}}Adapazari, Turkey, 1999{{< /h >}} {{< br >}}{{< br >}} Permanent housing and community for families who lost homes to an earthquake. {{< br >}}{{< br >}} "At least for myself, being part of this workshop meant that there are no limits to what we can do for other people if our desire and our willingness to help is strong enough... My fundamental message is that no matter what we know, no matter who we are, we can always lend a hand to those in need if we follow our hearts." {{< br >}}{{< br >}} \- Bruno Miller ([PDF]({{< baseurl >}}/resources/5miller)) {{< br >}}{{< br >}} _At left, a model showing electrical, water, and sewage lines._ {{< br >}}{{< br >}}  |
-| ![Children with Jan Wampler in Cay, Turkey.](/courses/architecture/4-170-ecuador-workshop-fall-2006/past-workshops/6.jpg) | {{< h 3 >}}Cay, Turkey, 2000-2001{{< /h >}} {{< br >}}{{< br >}} Rebuilding the center and psyche of a community after two earthquakes. {{< br >}}{{< br >}} "I have no doubt that when the community center is completed, the classes teaching computers and those teaching folk dancing will be equally welcome. For these people, innovation does not threaten their identity, but provides a means to preserve it. And we, who bring them our technology and expertise, must remember not only to teach, but to learn." {{< br >}}{{< br >}} \- Molly Forr ([PDF]({{< baseurl >}}/resources/6forr)) {{< br >}}{{< br >}} _At left, children work with the members of the workshop._ {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+IMAGES
+{{< thclose >}}
+{{< thopen >}}
+DESCRIPTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Children in Gujerat, India.](/courses/architecture/4-170-ecuador-workshop-fall-2006/past-workshops/1.jpg)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Gujerat, India, 1996-1997
+
+The design of housing, a community center prototype, and public spaces in Gujerat, India.
+
+"Working with MIT and the Aga Khan Housing Board of India taught us an invaluable lesson of how to work with and for people of other cultures... Every phase of this workshop was vital to its success and each taught us a valuable lesson of exchange and cooperation that we carried with us into our professional careers."
+
+\-Rodney Zeismann and Sandra Ventura ([PDF]({{< baseurl >}}/resources/1zeismannventura))
+
+_At left, children in Gujerat._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Plan view of model.](/courses/architecture/4-170-ecuador-workshop-fall-2006/past-workshops/2.jpg)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Haiderabad, Pakistan, 1995
+
+Design of an educational and community center incorporated into a south-facing slope.
+
+"As I think back on the Haiderabad workshop, it is difficult to focus on just that experience, as the effects of it continue to sprout and grow in me even today. The experience of the workshop was so incredible that it also represents for me one of those treasured points of clarity that so affect the paths we take in life. In fact, I can say without hesitation that, six years later, the seeds that this workshop sowed in me have grown to be more and more a part of my life and work with every passing year."
+
+\- Barbara Brady ([PDF]({{< baseurl >}}/resources/2brady))
+
+_At left, a plan view of the model._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Three-person unit.](/courses/architecture/4-170-ecuador-workshop-fall-2006/past-workshops/3.jpg)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Beijing, China, 2001
+
+House and home prototypes in the hutong district of Beijing.
+
+"Overall, the China Workshop was one of the greatest educational experiences of my life... Perhaps the greatest lesson that I learned was that while our cultures and contexts are very different, people living in Beijing are basically the same as people living in Boston."
+
+\- Steven Jackson ([PDF]({{< baseurl >}}/resources/3jackson))
+
+_At left, models of a three-person housing unit._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Site plan for housing community.](/courses/architecture/4-170-ecuador-workshop-fall-2006/past-workshops/4.jpg)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Tegucigalpa, Honduras, 1999
+
+A new housing prototype in Honduras to provide hurricane relief and crowding solutions.
+
+"I experienced a country devastated in terms I can not describe, something I will take with me always. I saw how a project is approached through an architect and planner’s eyes – something some civil engineers never experience! Most importantly, I left the workshop with wonderful friends, both at MIT and in Honduras, that I never would have met in my life otherwise."
+
+\- Kathryn J. MacLaughlin ([PDF]({{< baseurl >}}/resources/4maclaughlin))
+
+_At left, a site plan for a housing community._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Model with lines showing services.](/courses/architecture/4-170-ecuador-workshop-fall-2006/past-workshops/5.jpg)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Adapazari, Turkey, 1999
+
+Permanent housing and community for families who lost homes to an earthquake.
+
+"At least for myself, being part of this workshop meant that there are no limits to what we can do for other people if our desire and our willingness to help is strong enough... My fundamental message is that no matter what we know, no matter who we are, we can always lend a hand to those in need if we follow our hearts."
+
+\- Bruno Miller ([PDF]({{< baseurl >}}/resources/5miller))
+
+_At left, a model showing electrical, water, and sewage lines._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Children with Jan Wampler in Cay, Turkey.](/courses/architecture/4-170-ecuador-workshop-fall-2006/past-workshops/6.jpg)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Cay, Turkey, 2000-2001
+
+Rebuilding the center and psyche of a community after two earthquakes.
+
+"I have no doubt that when the community center is completed, the classes teaching computers and those teaching folk dancing will be equally welcome. For these people, innovation does not threaten their identity, but provides a means to preserve it. And we, who bring them our technology and expertise, must remember not only to teach, but to learn."
+
+\- Molly Forr ([PDF]({{< baseurl >}}/resources/6forr))
+
+_At left, children work with the members of the workshop._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
