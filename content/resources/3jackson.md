@@ -5,6 +5,7 @@ description: This resource contains a personal statement, written by Steven Jack
   of Beijing, China.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/4-170-ecuador-workshop-fall-2006/0874976d6fe26213e643f1c190f55d17_3jackson.pdf
 file_type: application/pdf
+parent_uid: 3d6afc6e-c5c2-24b1-ad6d-cb1fe2e8f3d2
 resourcetype: Document
 title: 3jackson.pdf
 uid: 0874976d-6fe2-6213-e643-f1c190f55d17

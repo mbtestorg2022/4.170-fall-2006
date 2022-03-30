@@ -7,6 +7,7 @@ image_metadata:
   caption: First floor plan.
   credit: Image courtesy of the workshop.
   image-alt: First floor plan.
+parent_uid: 81f5d703-8569-5d13-bdf0-6e28c06612fb
 resourcetype: Image
 title: 01_planfloor1.jpg
 uid: 1563ca20-3880-0f11-709e-ed75bb2be206

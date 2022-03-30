@@ -7,6 +7,7 @@ description: 'This resource contains a research report on Ecuador, compiled by t
   of Ecuador vs. United States, and culture.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/4-170-ecuador-workshop-fall-2006/7e247d0aa83a023e305bd68d5bda76d2_ecuador.pdf
 file_type: application/pdf
+parent_uid: f3e5f503-51c3-4123-888d-13c00c404d5b
 resourcetype: Document
 title: ecuador.pdf
 uid: 7e247d0a-a83a-023e-305b-d68d5bda76d2

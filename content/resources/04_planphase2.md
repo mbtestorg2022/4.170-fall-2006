@@ -7,6 +7,7 @@ image_metadata:
   caption: First floor plan, during the second phase.
   credit: Image courtesy of the workshop.
   image-alt: First floor plan, during the second phase.
+parent_uid: 81f5d703-8569-5d13-bdf0-6e28c06612fb
 resourcetype: Image
 title: 04_planphase2.jpg
 uid: c53a4987-9533-8e17-0b94-3ce42637368c

@@ -7,6 +7,7 @@ image_metadata:
   caption: Section B.
   credit: Image courtesy of the workshop.
   image-alt: Section B.
+parent_uid: 81f5d703-8569-5d13-bdf0-6e28c06612fb
 resourcetype: Image
 title: 06_sectB.jpg
 uid: 0037d108-e237-48f9-f433-98ce87996e08

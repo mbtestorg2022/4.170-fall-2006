@@ -5,6 +5,7 @@ description: This resource contains a personal statement, written by Barbara Bra
   into a south-facing slope in Haiderabad, Pakistan.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/4-170-ecuador-workshop-fall-2006/dc39cffab49bef7e4be3eae113a1d6d9_2brady.pdf
 file_type: application/pdf
+parent_uid: 3d6afc6e-c5c2-24b1-ad6d-cb1fe2e8f3d2
 resourcetype: Document
 title: 2brady.pdf
 uid: dc39cffa-b49b-ef7e-4be3-eae113a1d6d9

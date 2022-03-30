@@ -5,6 +5,7 @@ description: 'This resource contains a reading, DUE?s Strategic Themes: Providin
   Undergraduate Education News.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/4-170-ecuador-workshop-fall-2006/d2babef6f620a1d0adff79a0a89a5b64_duewriteup.pdf
 file_type: application/pdf
+parent_uid: 8167d81d-5ace-e952-75f9-327b004340b3
 resourcetype: Document
 title: duewriteup.pdf
 uid: d2babef6-f620-a1d0-adff-79a0a89a5b64

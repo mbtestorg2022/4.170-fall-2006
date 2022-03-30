@@ -7,6 +7,7 @@ image_metadata:
   caption: East elevation.
   credit: Image courtesy of the workshop.
   image-alt: East elevation.
+parent_uid: 81f5d703-8569-5d13-bdf0-6e28c06612fb
 resourcetype: Image
 title: 09_eleveast.jpg
 uid: f3dadb83-2035-408b-1cc3-91939508c9ac

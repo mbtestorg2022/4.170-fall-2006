@@ -7,6 +7,7 @@ image_metadata:
   caption: Second floor plan.
   credit: Image courtesy of the workshop.
   image-alt: Second floor plan.
+parent_uid: 81f5d703-8569-5d13-bdf0-6e28c06612fb
 resourcetype: Image
 title: 02_planfloor2.jpg
 uid: afdead7d-9d4c-134e-9903-18e5ff65b633

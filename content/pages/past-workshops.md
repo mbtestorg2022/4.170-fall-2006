@@ -37,7 +37,7 @@ DESCRIPTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Children in Gujerat, India.](/courses/architecture/4-170-ecuador-workshop-fall-2006/past-workshops/1.jpg)
+{{< resource "9f4a26e4-aae2-0c91-48a7-3da1bddc02ad" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -58,7 +58,7 @@ _At left, children in Gujerat._
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Plan view of model.](/courses/architecture/4-170-ecuador-workshop-fall-2006/past-workshops/2.jpg)
+{{< resource "a821c22e-4886-b24d-f2cd-d67857ae16c0" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -79,7 +79,7 @@ _At left, a plan view of the model._
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Three-person unit.](/courses/architecture/4-170-ecuador-workshop-fall-2006/past-workshops/3.jpg)
+{{< resource "cd206578-1878-0cd4-0229-271c4721c62d" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -100,7 +100,7 @@ _At left, models of a three-person housing unit._
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Site plan for housing community.](/courses/architecture/4-170-ecuador-workshop-fall-2006/past-workshops/4.jpg)
+{{< resource "9970aecb-dd07-4b59-2ae8-79b42a70dda2" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -121,7 +121,7 @@ _At left, a site plan for a housing community._
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Model with lines showing services.](/courses/architecture/4-170-ecuador-workshop-fall-2006/past-workshops/5.jpg)
+{{< resource "d65c62d3-72b0-0e45-11be-6da2df67142f" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -142,7 +142,7 @@ _At left, a model showing electrical, water, and sewage lines._
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Children with Jan Wampler in Cay, Turkey.](/courses/architecture/4-170-ecuador-workshop-fall-2006/past-workshops/6.jpg)
+{{< resource "e1e37f6a-fa86-8493-4238-ba7109363d80" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
